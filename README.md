@@ -3,7 +3,7 @@
 An interactive visualization of the "Just One More" paradox, demonstrating how seemingly favorable betting odds can lead to unexpected outcomes.
 
 ## Live Demo
-Check out the live demo: [Gambler's Paradox Game]([https://gambler-addict.vercel.app/]))
+Check out the live demo: [Gambler's Paradox Game](https://gambler-addict.vercel.app/)
 
 ## About The Project
 
