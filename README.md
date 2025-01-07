@@ -3,7 +3,7 @@
 An interactive visualization of the "Just One More" paradox, demonstrating how seemingly favorable betting odds can lead to unexpected outcomes.
 
 ## Live Demo
-Check out the live demo: [Gambler's Paradox Game]([https://coin-game-7wclkq5op-panataagamas-projects.vercel.app/](https://gambler-addict.vercel.app/))
+Check out the live demo: [Gambler's Paradox Game]([https://gambler-addict.vercel.app/]))
 
 ## About The Project
 
@@ -61,5 +61,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgments
 
-- Based on concepts from ergodicity economics
-- Inspired by Ole Peters' work on time averaging
+Based on concepts from [ergodicity economics](https://ergodicityeconomics.com/)
