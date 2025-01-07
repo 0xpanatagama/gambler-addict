@@ -3,7 +3,7 @@
 An interactive visualization of the "Just One More" paradox, demonstrating how seemingly favorable betting odds can lead to unexpected outcomes.
 
 ## Live Demo
-Check out the live demo: [Gambler's Paradox Game](https://coin-game-7wclkq5op-panataagamas-projects.vercel.app/)
+Check out the live demo: [Gambler's Paradox Game]([https://coin-game-7wclkq5op-panataagamas-projects.vercel.app/](https://gambler-addict.vercel.app/))
 
 ## About The Project
 
@@ -16,21 +16,8 @@ Despite having positive expected returns, most players end up losing money due t
 ### Features
 
 - **Interactive Controls**
-  - Adjustable bet size (0-100% of current amount)
-  - Toggle between linear and logarithmic scale
-  - Real-time bet percentage updates
-
 - **Analytics Panel**
-  - Win rate tracking
-  - Longest winning streak
-  - Maximum/minimum amounts reached
-  - Performance statistics
-
 - **Visual Elements**
-  - Real-time wealth chart
-  - Color-coded results
-  - Detailed flip history
-  - Reference lines for context
 
 ## Built With
 
@@ -72,14 +59,7 @@ Contributions are welcome! Feel free to submit pull requests or open issues to d
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-
-Your Name - [@youremail](youremail) - your.email@example.com
-
-Project Link: [https://github.com/0xpanatagama/coin-game](https://github.com/0xpanatagama/coin-game)
-
 ## Acknowledgments
 
 - Based on concepts from ergodicity economics
 - Inspired by Ole Peters' work on time averaging
-- Edward O. Thorp's research on optimal betting strategies
